@@ -1,0 +1,14 @@
+{
+  "name": "programacion",
+  "version": "1.0.0",
+  "description": "Scanner de la pagina web de venta de laptops para generar un recursos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "klapgx",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^15.3.1"
+  }
+}
